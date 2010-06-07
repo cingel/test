@@ -1,0 +1,1 @@
+puts Rails.root.to_s
